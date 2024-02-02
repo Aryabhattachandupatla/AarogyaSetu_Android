@@ -12,7 +12,7 @@
     <string name="why_is_it_needed">ఇది ఎందుకు అవసరం?</string>
     <string name="submit">సబ్మిట్ చేయండి</string>
     <string name="resend_otp">OTP ని మళ్ళీ పంపండి</string>
-    <string name="resend_otp_in">OTP ని %s మళ్ళి పంపించుటకు</string>
+    <string name="resend_otp_in">OTP ని %s మళ్ళీ పంపించుటకు</string>
     <!-- otp_validation_layout -->
     <string name="enter_otp">OTP ఎంటర్ చేయండి</string>
     <string name="we_have_sent_otp">మేము మీ మొబైల్ నంబర్‌కు OTP పంపాము.</string>
@@ -64,7 +64,7 @@
     <string name="syncing_data_success_detail">మీ డేటా ఇప్పుడు భారత దేశ ప్రభుత్వ సర్వర్లలో సురక్షితం చేయబడింది</string>
     <string name="syncing_data_failed">సింక్ విఫలమైంది</string>
     <string name="syncing_data_failed_detail">ఏదో తప్పు జరిగింది, దయచేసి మళ్ళీ ప్రయత్నించండి.</string>
-    <string name="retry">మళ్లీ ప్రయత్నించండి</string>
+    <string name="retry">మళ్ళీ ప్రయత్నించండి</string>
     <string name="ok">సరే</string>
     <string name="image_language_change_content_description">భాషను మార్చండి</string>
     <string name="image_share_content_description">అప్లికేషన్ షేర్ చేయండి</string>
@@ -73,7 +73,7 @@
     <string name="image_close_content_description">@string/close</string>
     <string name="permission_alert_message">మీ సెట్టింగ్‌లో మీరు లొకేషన్ / బ్లూటూత్ అనుమతులను అందించాలి, తిరిగీ యాప్ లో కి వచ్చి మళ్ళీ క్లిక్ చేయండి</string>
     <string name="error_network_error">దయచేసి మీ ఇంటర్నెట్ కనెక్షన్‌ను సరి చుడండి</string>
-    <string name="error_location">మీరు ఇచ్చిన లొకేషన్ పర్మిషన్ సరిపోదు మరియు ఇక్కడ మార్చలేము . మళ్ళి సెట్టింగులోకి వెళ్లి సరైన పర్మిషన్ ఇవ్వండి</string>
+    <string name="error_location">మీరు ఇచ్చిన లొకేషన్ పర్మిషన్ సరిపోదు మరియు ఇక్కడ మార్చలేము . మళ్ళీ సెట్టింగులోకి వెళ్లి సరైన పర్మిషన్ ఇవ్వండి</string>
     <string name="turn_on_bluetooth_all_times">ఇతర పరికరాలకు మీరు ఎంత సమీపానికి వచ్చారో ట్రాక్ చేయడానికి మరియు మీకు ఖచ్చితమైన భద్రతా అప్డేట్ లు ఇవ్వడానికి బ్లూటూత్ అన్ని సమయాల్లో ఆన్ లో ఉండాలి</string>
     <string name="make_sure_your_phone_is_connected_to_the_wifi_or_switch_to_mobile_data">మీ ఫోన్ వైఫైకి కనెక్ట్ అయిందని సరిచూడండి లేదా మొబైల్ డేటాకు మారండి..</string>
     <string name="login_failed">లాగిన్ విఫలమైంది. దయచేసి మళ్ళీ ప్రయత్నించండి</string>
